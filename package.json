@@ -17,7 +17,7 @@
     "xml2js": "^0.4.21"
   },
   "devDependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "should": "^13.2.3",
     "supertest": "^4.0.2"
   }
